@@ -35,7 +35,7 @@
 
    .card-img-top1, .card-img-top2, .card-img-top3,
   .card-img-top4, .card-img-top5, .card-img-top6{
-      height: 270px;
+      height: 280px;
       width: 244px;
       transition: transform .2s;
       z-index: 1;
