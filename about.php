@@ -141,7 +141,9 @@
               of other benefits and privileges.</p><br>
 
             <p>Thus Urban Trends today is a complete lifestyle brand complementing every facet of your personality: be it at work, 
-              leisure or those special moments.</p></p>
+              leisure or those special moments.</p><br>
+
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
        </div>              
     </div>
   </div>
