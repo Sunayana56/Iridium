@@ -143,7 +143,10 @@
             <p>Thus Urban Trends today is a complete lifestyle brand complementing every facet of your personality: be it at work, 
               leisure or those special moments.</p><br>
 
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br>
+            
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
        </div>              
     </div>
   </div>
